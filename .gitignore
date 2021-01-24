@@ -1,0 +1,7 @@
+/.cache
+/dist
+/node_modules
+.DS_Store
+public/Penguin-images-2
+public/platformergraphics-iceworld
+public/snowman-images

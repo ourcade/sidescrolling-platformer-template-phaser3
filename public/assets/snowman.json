@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "snowman_left_1.png",
+	"frame": {"x":0,"y":0,"w":128,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":132},
+	"sourceSize": {"w":128,"h":132}
+},
+{
+	"filename": "snowman_left_2.png",
+	"frame": {"x":0,"y":132,"w":128,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":132},
+	"sourceSize": {"w":128,"h":132}
+},
+{
+	"filename": "snowman_right_1.png",
+	"frame": {"x":0,"y":264,"w":128,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":132},
+	"sourceSize": {"w":128,"h":132}
+},
+{
+	"filename": "snowman_right_2.png",
+	"frame": {"x":0,"y":396,"w":128,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":132},
+	"sourceSize": {"w":128,"h":132}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "snowman.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":528},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e526beb57341507f42ce16a5c6d1b2f8:4cc9194f37858b5b79c39610b760cc92:97365287be0f39d292457a96b7527d3c$"
+}
+}
