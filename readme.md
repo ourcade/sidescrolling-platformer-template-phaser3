@@ -11,14 +11,12 @@ This is a starter or template project for sidescrolling platformer-type game usi
 
 ## Getting Started
 
-Clone this repository with `git-lfs` and run:
+Clone this repository with `git` and run:
 
 ```bash
 npm install
 npm run start
 ```
-
-If you don't have `git-lfs` installed then get it here: https://git-lfs.github.com
 
 ## License
 
