@@ -9,7 +9,7 @@ This is a starter or template project for sidescrolling platformer-type game usi
 
 [This code corresponds to an 8 part series on YouTube](https://youtube.com/playlist?list=PLumYWZ2t7CRvEG-wUD5uwUBHU91E0kt4b) detailing how the template was made.
 
-[Play the demo here.](https://ourcade.github.io/sidescrolling-platformer-template-phaser3/)
+[Play the demo here.](https://ourcade.co/templates/sidescrolling-platformer-template)
 
 ## Getting Started
 
