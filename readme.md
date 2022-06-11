@@ -7,7 +7,7 @@
 
 This is a starter or template project for sidescrolling platformer-type game using Matter Physics and tilemaps in Phaser 3.50.
 
-[This code corresponds to an 8 part series on YouTube](https://youtube.com/playlist?list=PLumYWZ2t7CRvEG-wUD5uwUBHU91E0kt4b) detailing how the template was made.
+[This code corresponds to an 8 part series on YouTube](https://www.youtube.com/playlist?list=PLNwtXgWIx3rg3J4XyuDVhjU81dZbJtVAU) detailing how the template was made.
 
 [Play the demo here.](https://ourcade.co/templates/sidescrolling-platformer-template)
 
